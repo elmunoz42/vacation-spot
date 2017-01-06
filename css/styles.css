@@ -14,3 +14,22 @@ img {
 .container {
   background-image: url(http://netdna.webdesignerdepot.com/uploads/2015/03/featured5-1024x502.jpg);
 }
+
+#left-menu {
+  float:left;
+  position:fixed;
+  width:100px;
+  display:block;
+  margin:0px;
+  padding:0px;
+  background-color: #33E3FF;
+}
+
+#main-body {
+  margin-left: 100px;
+  margin-right: 0px;
+}
+ul {
+  margin:1px;
+  padding-left: 20px;
+}
